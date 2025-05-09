@@ -1,0 +1,43 @@
+﻿@using WebApplication3.Models
+
+@model List<Product>
+<main>
+    <div class="container-fluid px-4">
+        <h1 class="mt-4">Dashboard</h1>
+        <a asp-area="Admin" asp-controller="Products" asp-action="Create" type="button" class="btn btn-primary">Create Product</a>
+        
+
+        <div class="row">
+
+            @{
+                foreach (Product item in Model)
+                {
+                    <div class="col-sm-6 col-md-4 col-lg-3 mt-3">
+                        <div class="product-item text-center" data-id="popular">
+                            <div class="img">
+                                <a href="">
+                                    <img src="~/assets/img/shop-14-img.jpg" class="img-fluid" alt="">
+                                </a>
+                            </div>
+                            <div class="title mt-3">
+                                <h6>@item.Name</h6>
+                            </div>
+                            <div class="price">
+                                <span class="text-black-50">@item.Descriptins</span> <br>
+                                <span class="text-black-50">@item.Price</span>
+                            </div>
+                            <a asp-area="Admin" asp-controller="Products" asp-action="Update" asp-route-id="@item.Id" type="button" class="btn btn-warning">Update</a>
+                            <a asp-area="Admin" asp-controller="Products" asp-action="Delete" asp-route-id="@item.Id" type="button" class="btn btn-danger">Delete</a>
+
+                        </div>
+                    </div>
+                }
+            }
+
+
+        </div>
+
+
+    </div>
+</main>
+              1     

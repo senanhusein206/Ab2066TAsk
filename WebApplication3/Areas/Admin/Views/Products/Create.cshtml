@@ -1,0 +1,25 @@
+﻿@using WebApplication3.Models
+
+@model Product
+
+<form asp-area="Admin" asp-controller="Products" asp-action="Create">
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label"> Name </label>
+        <input asp-for="Name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">ImgUrl</label>
+        <input asp-for="ImgUrl" class="form-control" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3 form-check">
+        <label for="exampleInputPassword1" class="form-label">Description</label>
+        <input asp-for="Descriptins" class="form-control" id="exampleInputPassword1">
+    </div>
+    <div class="mb-3 form-check">
+        <label for="exampleInputPassword1" class="form-label">Price</label>
+        <input asp-for="Price" class="form-control" id="exampleInputPassword1">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+<a asp-area="Admin" asp-controller="Dashboard" asp-action="Index" type="button" class="btn btn-primary">Show all products</a>
