@@ -1,0 +1,14 @@
+C:\Users\Senan\source\repos\CarVillaProject\CarVillaProject.DAL\bin\Debug\net8.0\CarVillaProject.DAL.deps.json
+C:\Users\Senan\source\repos\CarVillaProject\CarVillaProject.DAL\bin\Debug\net8.0\CarVillaProject.DAL.runtimeconfig.json
+C:\Users\Senan\source\repos\CarVillaProject\CarVillaProject.DAL\bin\Debug\net8.0\CarVillaProject.DAL.dll
+C:\Users\Senan\source\repos\CarVillaProject\CarVillaProject.DAL\bin\Debug\net8.0\CarVillaProject.DAL.pdb
+C:\Users\Senan\source\repos\CarVillaProject\CarVillaProject.DAL\obj\Debug\net8.0\CarVillaProject.DAL.csproj.AssemblyReference.cache
+C:\Users\Senan\source\repos\CarVillaProject\CarVillaProject.DAL\obj\Debug\net8.0\CarVillaProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senan\source\repos\CarVillaProject\CarVillaProject.DAL\obj\Debug\net8.0\CarVillaProject.DAL.AssemblyInfoInputs.cache
+C:\Users\Senan\source\repos\CarVillaProject\CarVillaProject.DAL\obj\Debug\net8.0\CarVillaProject.DAL.AssemblyInfo.cs
+C:\Users\Senan\source\repos\CarVillaProject\CarVillaProject.DAL\obj\Debug\net8.0\CarVillaProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Senan\source\repos\CarVillaProject\CarVillaProject.DAL\obj\Debug\net8.0\CarVillaProject.DAL.dll
+C:\Users\Senan\source\repos\CarVillaProject\CarVillaProject.DAL\obj\Debug\net8.0\refint\CarVillaProject.DAL.dll
+C:\Users\Senan\source\repos\CarVillaProject\CarVillaProject.DAL\obj\Debug\net8.0\CarVillaProject.DAL.pdb
+C:\Users\Senan\source\repos\CarVillaProject\CarVillaProject.DAL\obj\Debug\net8.0\CarVillaProject.DAL.genruntimeconfig.cache
+C:\Users\Senan\source\repos\CarVillaProject\CarVillaProject.DAL\obj\Debug\net8.0\ref\CarVillaProject.DAL.dll

@@ -1,0 +1,30 @@
+﻿
+@model Car
+
+<form asp-area="Admin" asp-controller="Car" asp-action="Update">
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Model</label>
+        <input asp-for="@Model.Model" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Brand</label>
+        <input asp-for="@Model.Brand" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Img</label>
+        <input asp-for="@Model.ImgUrl" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Automatic</label>
+        <input asp-for="@Model.SpeedBoxCategory" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Price</label>
+        <input asp-for="@Model.Price" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Descriptions</label>
+        <input asp-for="@Model.Description" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

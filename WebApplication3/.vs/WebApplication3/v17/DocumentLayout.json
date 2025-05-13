@@ -1,98 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Senan\\Desktop\\WebApplication3\\",
+  "WorkspaceRootPath": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\areas\\admin\\views\\products\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\products\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\areas\\admin\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\areas\\admin\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\areas\\admin\\views\\products\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\products\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\migrations\\20250509075800_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:migrations\\20250509075800_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Migrations\\20250509075646_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250509075646_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\abb206\\webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\migrations\\20250507153415_shit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:migrations\\20250507153415_shit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|c:\\users\\senan\\desktop\\webapplication3\\migrations\\20250507150538_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3207A33-1857-4BD6-9136-2EA508EEB979}|WebApplication3.csproj|solutionrelative:migrations\\20250507150538_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,21 +102,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:19:19.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-09T05:59:41.726Z",
               "EditorCaption": ""
@@ -125,73 +134,35 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAB1AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-07T13:53:11.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T13:34:58.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Services\\ProductService.cs",
-              "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwCUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T14:55:05.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Info.cshtml",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\Products\\Info.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Info.cshtml",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\Products\\Info.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Info.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T14:36:11.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\Products\\Update.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\Products\\Update.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T15:28:34.012Z",
+              "WhenOpened": "2025-05-08T14:33:58.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -200,60 +171,122 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\Products\\Info.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Info.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\Products\\Info.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T14:33:58.552Z",
+              "WhenOpened": "2025-05-08T14:36:11.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAUwDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T14:19:19.177Z"
+              "DocumentIndex": 0,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\Products\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\Products\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:28:34.012Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T13:56:39.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:55:05.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T13:52:57.038Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAJcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T13:37:09.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T13:34:58.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:34:31.488Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Contexts\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Contexts\\AppDbContext.cs",
               "RelativeToolTip": "Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T14:30:12.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -261,23 +294,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAswB4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T13:56:39.704Z"
+              "DocumentIndex": 15,
+              "Title": "20250509075800_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Migrations\\20250509075800_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250509075800_Init.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Migrations\\20250509075800_Init.cs",
+              "RelativeToolTip": "Migrations\\20250509075800_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:58:00.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
+              "Title": "20250509075646_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Migrations\\20250509075646_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250509075646_Init.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Migrations\\20250509075646_Init.cs",
+              "RelativeToolTip": "Migrations\\20250509075646_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:56:47.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -285,11 +330,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -297,11 +342,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -309,35 +354,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:34:31.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAUwJcAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T13:37:09.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -345,11 +366,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -357,35 +378,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20250507153415_shit.cs",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Migrations\\20250507153415_shit.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250507153415_shit.cs",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Migrations\\20250507153415_shit.cs",
-              "RelativeToolTip": "Migrations\\20250507153415_shit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T15:34:15.987Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "20250507150538_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Migrations\\20250507150538_Initial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250507150538_Initial.cs",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\Migrations\\20250507150538_Initial.cs",
-              "RelativeToolTip": "Migrations\\20250507150538_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T15:05:39.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "WebApplication3.csproj",
-              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\WebApplication3\\WebApplication3.csproj",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\WebApplication3.csproj",
               "RelativeDocumentMoniker": "WebApplication3.csproj",
-              "ToolTip": "C:\\Users\\Senan\\Desktop\\WebApplication3\\WebApplication3.csproj",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\ABB206\\WebApplication3\\WebApplication3.csproj",
               "RelativeToolTip": "WebApplication3.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

@@ -18,17 +18,6 @@ namespace WebApplication3.Controllers
             var data = _service.GetAllProducts();
             return View(data);
         }
-        [HttpGet]
-        public IActionResult Create()
-        {
-            return View();
-        }
-        [HttpPost]
-        public IActionResult Create(Product product)
-        {
-            _service.CreateProduct(product);
-            return View();
 
-        }
     }
 }
